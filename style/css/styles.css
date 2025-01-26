@@ -41,7 +41,7 @@ body {
 }
 
 .btn {
-    background-color: #ff6a80;
+    background-color: #ff8396;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -55,7 +55,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #FAF9F6;
+    background-color: #fccad2;
 }
 
 .gif_container {
